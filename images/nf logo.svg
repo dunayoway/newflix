@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="40mm"
+   height="35mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient5">
+      <stop
+         style="stop-color:#890000;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <radialGradient
+       xlink:href="#linearGradient2"
+       id="radialGradient3"
+       cx="0.7588644"
+       cy="187.72626"
+       fx="0.7588644"
+       fy="187.72626"
+       r="10.216965"
+       gradientTransform="matrix(1,0,0,3.523981,0,-473.81752)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient5"
+       id="linearGradient6"
+       x1="106.50392"
+       y1="163.91317"
+       x2="154.20707"
+       y2="163.91317"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="layer1">
+    <g
+       id="g16"
+       transform="matrix(1.4605263,0,0,1,-66.020805,-20.748503)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.7826px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aa0000;stroke-width:0.268568"
+       x="58.348724"
+       y="155.48096"
+       id="text1"
+       transform="matrix(0.98650035,0.01107725,0.00288698,1.0137168,0,0)"><tspan
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.7826px;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#aa0000;stroke-width:0.268568"
+         x="58.348724"
+         y="155.48096" /></text>
+    <rect
+       style="fill:#fb8500;stroke-width:0.264583"
+       id="rect1"
+       width="18.377245"
+       height="71.137726"
+       x="69.952095"
+       y="125.67664" />
+    <rect
+       style="fill:#fb8500;stroke-width:0.278;fill-rule:nonzero;stroke:url(#radialGradient3);stroke-opacity:1;stroke-dasharray:none"
+       id="rect2"
+       width="20.155687"
+       height="71.730537"
+       x="-9.3189793"
+       y="151.86099"
+       transform="rotate(-30.74766)" />
+    <rect
+       style="fill:#fb8500;fill-rule:nonzero;stroke:#000000;stroke-width:0.286338;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3"
+       width="21.332981"
+       height="71.129387"
+       x="105.5251"
+       y="126.86642" />
+    <rect
+       style="fill:#fb8500;fill-rule:nonzero;stroke:#b30000;stroke-width:0.308046;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4"
+       width="47.395107"
+       height="17.16157"
+       x="105.53597"
+       y="126.87729" />
+    <rect
+       style="fill:#fb8500;fill-rule:nonzero;stroke:url(#linearGradient6);stroke-width:0.308046;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5"
+       width="47.395107"
+       height="17.16157"
+       x="106.65794"
+       y="155.33238" />
+  </g>
+</svg>
