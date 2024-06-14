@@ -320,7 +320,7 @@ footer p {
   margin: 3% 0;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 480px) {
   /* .row::after {
     content: "";
     clear: both;
